@@ -1,0 +1,8 @@
+{
+  "name": "permissioned-token-whitelist",
+  "version": "1.0.0",
+  "description": "Compliance-focused ERC20 with transfer restrictions",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
